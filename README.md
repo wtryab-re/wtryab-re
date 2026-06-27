@@ -49,7 +49,7 @@ Computer Science graduate from **Capital University of Science and Technology (C
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=cobalt&hide_border=true&title_color=C77DFF&icon_color=FFADAD&text_color=ffffff&bg_color=00000000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=wtryab-re&show_icons=true&theme=cobalt&hide_border=true&title_color=C77DFF&icon_color=FFADAD&text_color=ffffff&bg_color=00000000" height="170"/>
 </p>
 
 ---
