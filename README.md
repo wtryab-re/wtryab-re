@@ -1,9 +1,9 @@
 <div align="center">
 
 <h1>Hi, I'm Warda 🌸</h1>
-<h3>Data Scientist building explainable, human-centered AI</h3>
+<h3>Data Scientist building pretty, explainable, human-centered AI</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1500&color=C77DFF&center=true&vCenter=true&width=480&lines=Machine+Learning+%26+Explainable+AI;Python+%C2%B7+PyTorch+%C2%B7+Scikit-learn;Currently+building+PulmoVision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&color=C77DFF&center=true&vCenter=true&width=480&lines=Machine+Learning+%26+Explainable+AI;Python+%C2%B7+PyTorch+%C2%B7+Scikit-learn;Currently+building+PulmoVision" alt="Typing SVG" />
 
 </div>
 
