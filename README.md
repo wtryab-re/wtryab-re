@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>🌸 Hi, I'm Warda Tayyeb 🌸</h1>
-<h3>Data Scientist building pretty, explainable, human-centered AI</h3>
+<h3>Data Scientist building <i>pretty</i>, explainable, human-centered AI</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&pause=1500&color=C77DFF&center=true&vCenter=true&width=480&lines=Machine+Learning+%26+Explainable+AI;Python+%C2%B7+PyTorch+%C2%B7+Scikit-learn;Currently+building+myself" alt="Typing SVG" />
 </div>
@@ -54,6 +54,6 @@ Computer Science graduate (GPA 3.91) from Capital University of Science and Tech
 [![Portfolio](https://img.shields.io/badge/Portfolio-DFE7FD?style=flat-square&logo=netlify&logoColor=4a4a4a)](https://warda-tayyeb.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-FDE2E4?style=flat-square&logo=gmail&logoColor=4a4a4a)](mailto:wtryab@gmail.com)
 
-<i>I am a farmer, baker, artist, tennis player and a dreamer</i>
+<i>I am a farmer, baker, writer, artist, tennis player and a dreamer</i>
 
 </div>
