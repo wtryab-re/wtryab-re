@@ -41,13 +41,6 @@ Computer Science graduate (GPA 3.91) from Capital University of Science and Tech
 **Breast Cancer Classification & Interpretability** — benchmarked CNN and logistic regression models on clinical data, with explainability as a first-class design goal rather than an afterthought.
 <br>
 
-### a little snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wtryab-re&show_icons=true&hide_border=true&hide_title=true&theme=transparent&title_color=C77DFF&icon_color=C77DFF&text_color=4a4a4a&hide=prs" width="65%"/>
-</p>
-<br>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FFF1E6?style=flat-square&logo=linkedin&logoColor=4a4a4a)](https://www.linkedin.com/in/warda-tayyeb)
