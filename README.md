@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <h1>🌸 Hi, I'm Warda Tayyeb 🌸</h1>
 <h3>Data Scientist building <i>pretty</i>, explainable, human-centered AI</h3>
 
@@ -35,6 +35,10 @@ Computer Science graduate (GPA 3.91) from Capital University of Science and Tech
 </p><br>
 
 ### featured work
+
+**[Flowcus](https://getflowcus.netlify.app/)** - Chrome extension for people who struggle to read, with focus sounds, Bionic reading for webpages and pdfs. (JS)
+
+**[chickunt3nders Portfolio](https://abeertayyeb.netlify.app/)**
 
 **[PulmoVision](https://github.com/wtryab-re)** — full-stack telehealth platform (React, React Native, FastAPI) that diagnoses pneumonia and tuberculosis from medical imagery, with a Grad-CAM explainability layer so clinicians can see *why* the model made its call.
 
