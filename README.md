@@ -36,9 +36,9 @@ Computer Science graduate (GPA 3.91) from Capital University of Science and Tech
 
 ### featured work
 
-**[Flowcus](https://getflowcus.netlify.app/)** - Chrome extension for people who struggle to read, with focus sounds, Bionic reading for webpages and pdfs. (JS)
+**[Flowcus](https://getflowcus.netlify.app/)** - Chrome extension for people who struggle to read, with focus sounds, Bionic reading for webpages and pdfs. (React, TS, Next.JS, TailwindCSS)
 
-**[chickunt3nders Portfolio](https://abeertayyeb.netlify.app/)**
+**[chickunt3nders Portfolio](https://abeertayyeb.netlify.app/)** - Media portfolio for influencer @chickunt3nders. (React, Netlify, TailwindCSS, Typescript)
 
 **[PulmoVision](https://github.com/wtryab-re)** — full-stack telehealth platform (React, React Native, FastAPI) that diagnoses pneumonia and tuberculosis from medical imagery, with a Grad-CAM explainability layer so clinicians can see *why* the model made its call.
 
